@@ -1,6 +1,10 @@
 <h1>todo-list</h1>
 
-Communication between components
+Interface:
+
+![communication](../doc.imgs/todo.png "communication")
+
+Communication between components:
 
 ![communication](../doc.imgs/todo-list-proj.jpg "communication")
 
