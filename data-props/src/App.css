@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.TextDisplayArea,
+.CounterDisplayArea {
+  padding: 1.5rem;
+}
+
+.textDisplay {
+  font-size: 2rem;
+  text-align: center;
+}
+
+button,
+input {
+  padding: .5rem 1rem;
+  margin: 5px;
+  border: 1px solid lightgray;
+}
+
+button:active {
+  border: 1px solid gray;
+}
