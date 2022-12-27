@@ -1,0 +1,10 @@
+.online {
+  color: green;
+  font-weight: bolder;
+}
+.offline {
+  color: #999;
+}
+p{
+  margin: 1rem;
+}
