@@ -7,7 +7,7 @@ Collection of Real-World React Coding Challenges for study to keep [ReactJS](htt
 - [data props/state](./data-props/) - Handling and sharing two-way data binding between components through the use of props/states.
 - React Hooks
     - [useEffect](./react-hooks-useeffect/) - render call using useEffect (React 16.8+)
-    - useReducer
-    - useMemo
+    - ~~useReducer~~
+    - ~~useMemo~~
 
 ---
