@@ -8,5 +8,6 @@ Collection of Real-World React Coding Challenges for study to keep [ReactJS](htt
 - React Hooks
     - [useEffect](./react-hooks-useeffect/) - render call using useEffect (React 16.8+)
     - useReducer
+    - useMemo
 
 ---
