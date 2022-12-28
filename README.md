@@ -9,8 +9,9 @@ Collection of Real-World React Coding Challenges for study to keep [ReactJS](htt
     - [data props/state](./data-props/) - Handling and sharing two-way data binding between components through the use of props/states.
 - React Hooks
     - [useContext](./data-context/) - Sharing data between components through the use of react context.
-    - [useEffect](./react-hooks-useeffect/) - render call using useEffect (React 16.8+)
-    - useReducer
-    - useMemo
+    - [useEffect](./react-hooks-useeffect/) - re-render call using useEffect (React 16.8+)
+    - [useLayoutEffect](./react-hooks-useeffect/) - render before DOM loading is completed, ([useEffect](./react-hooks-useeffect/) variation version)
+    - useReducer - Adds reducer to a component context
+    - useMemo - It keeps a return data in memory
 
 ---
