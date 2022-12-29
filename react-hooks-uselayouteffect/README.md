@@ -2,7 +2,7 @@
 
 Re-render call using useLayoutEffect (React 16.8+)
 
-Same implementation of [useEffect](../react-hooks-useeffect/) hook project but using [useLayoutEffect](https://beta.reactjs.org/reference/react/useLayoutEffect) that renders before react loads the page.
+Same implementation of [useEffect hook project](../react-hooks-useeffect/) but using [useLayoutEffect](https://beta.reactjs.org/reference/react/useLayoutEffect) that renders before react loads the page.
 
 ![result](../doc.imgs/react-hooks-useeffect.gif "result")
 
