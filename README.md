@@ -10,7 +10,7 @@ Collection of Real-World React Coding Challenges for study to keep [ReactJS](htt
 - React Hooks (React 16.8+)
     - [useContext](./data-context/) - Sharing data between components through the use of react context.
     - [useEffect](./react-hooks-useeffect/) - re-render call using useEffect 
-    - [useLayoutEffect](./react-hooks-useeffect/) - render before DOM loading is completed, ([useEffect](./react-hooks-useeffect/) variation version)
+    - [useLayoutEffect](./react-hooks-uselayouteffect/) - render before DOM loading is completed, ([useEffect](./react-hooks-useeffect/) variation version)
     - useReducer - Adds reducer to a component context
     - useMemo - It keeps a return data in memory
 
