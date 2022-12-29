@@ -9,8 +9,6 @@ Same implementation of [useEffect](../react-hooks-useeffect/) hook project but u
 
 External Official References:
 
-- [useEffect](https://beta.reactjs.org/reference/react/useLayoutEffect)
+- [useEffect](https://beta.reactjs.org/reference/react/useEffect)
 
-- [useLayoutEffect](https://beta.reactjs.org/reference/react/useLayoutEffect){:target="_blank"}
-
-- <a href="https://beta.reactjs.org/reference/react/useLayoutEffect" target="_blank">useLayoutEffect</a>
+- [useLayoutEffect](https://beta.reactjs.org/reference/react/useLayoutEffect)
