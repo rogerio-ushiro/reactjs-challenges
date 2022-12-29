@@ -11,4 +11,4 @@ External Official References:
 
 - [useEffect](https://beta.reactjs.org/reference/react/useLayoutEffect)
 
-- [useLayoutEffect](https://beta.reactjs.org/reference/react/useLayoutEffect)
+- <a href="https://beta.reactjs.org/reference/react/useLayoutEffect" target="_blank">useLayoutEffect</a>
