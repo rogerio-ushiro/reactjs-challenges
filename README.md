@@ -12,6 +12,6 @@ Collection of Real-World React Coding Challenges for study to keep [ReactJS](htt
     - [useEffect](./react-hooks-useeffect/) - re-render call using useEffect 
     - [useLayoutEffect](./react-hooks-uselayouteffect/) - render before DOM loading is completed, ([useEffect](./react-hooks-useeffect/) variation version)
     - useReducer - Adds reducer to a component context
-    - useMemo - It keeps a return data in memory
+    - useMemo - keeps data in memory
 
 ---
